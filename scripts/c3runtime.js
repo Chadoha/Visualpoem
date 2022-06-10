@@ -4214,7 +4214,12 @@ self.C3_JsPropNameTable = [
 	{Sprite34: 0},
 	{Sprite35: 0},
 	{Sprite23: 0},
-	{Sprite36: 0}
+	{Sprite36: 0},
+	{Sprite37: 0},
+	{TiledBackground2: 0},
+	{TiledBackground3: 0},
+	{TiledBackground4: 0},
+	{TiledBackground5: 0}
 ];
 }
 
